@@ -10,7 +10,7 @@ Eclipse library project based on:<br/>
 - [dandar3/android-google-play-services-vision-common](https://github.com/dandar3/android-google-play-services-vision-common/tree/11.0.0)
 
 **References:**
-- https://developers.google.com/vision/introduction
+- https://developers.google.com/vision/introduction/
 - https://developers.google.com/android/guides/releases#june_2017_-_version_110
 
 **SVN checkout:**
